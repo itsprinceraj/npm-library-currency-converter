@@ -1,0 +1,26 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "An npm library to convert currencies value from one currency to another",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamprinceraj/npm-library-currency-converter-.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Prince Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamprinceraj/npm-library-currency-converter-/issues"
+  },
+  "homepage": "https://github.com/iamprinceraj/npm-library-currency-converter-#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
