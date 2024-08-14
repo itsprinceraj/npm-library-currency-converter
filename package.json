@@ -12,7 +12,13 @@
     "url": "git+https://github.com/iamprinceraj/npm-library-currency-converter-.git"
   },
   "keywords": [
-    "npm"
+    "currency",
+    "currencies",
+    "currency-converter",
+    "currency_converter",
+    "optimal-converter",
+    "optimal-currency",
+    "optimal-currency-converter"
   ],
   "author": "Prince Raj",
   "license": "ISC",
