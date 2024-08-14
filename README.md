@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple npm library for converting currencies using the FreeCurrencyAPI.
+A simple npm library to converting from one currency to another
 
 ## Table of Contents
 
