@@ -27,14 +27,9 @@ First, import the library and create an instance of the convertCurrency function
 ```bash
 import { convertCurrency } from 'currency-converter';
 
-// Example usage
-convertCurrency('USD', 'INR', 1)
-  .then((result) => {
-    console.log(`Converted amount: ${result}`);
-  })
-  .catch((error) => {
-    console.error('Error converting currency:', error);
-  });
+
+const currencyVal = convertCurrency('USD', 'INR', 1)
+console.log(currencyVal)
 ```
 ## Parameters
 
