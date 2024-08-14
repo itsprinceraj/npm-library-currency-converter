@@ -1,5 +1,5 @@
 {
-  "name": "currency_converter",
+  "name": "optimal-currency-converter",
   "version": "1.0.0",
   "description": "An npm library to convert currencies value from one currency to another",
   "main": "index.js",
