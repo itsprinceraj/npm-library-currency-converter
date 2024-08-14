@@ -17,7 +17,7 @@ A simple npm library for converting currencies using the FreeCurrencyAPI.
 To install the library, run:
 
 ```bash
-npm install optimal-currency-converter
+npm i optimal-currency-converter
 ```
 
 ## Usage
