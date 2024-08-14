@@ -7,10 +7,6 @@ A simple npm library for converting currencies using the FreeCurrencyAPI.
 - [Installation](#installation)
 - [Usage](#usage)
   - [Parameters](#parameters)
-  - [Return Value](#return-value)
-- [Example](#example)
-- [API Key](#api-key)
-- [License](#license)
 
 ## Installation
 
